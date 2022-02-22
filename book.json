@@ -1,0 +1,87 @@
+{
+    "title": "tjustb-wiki",
+    "author": "Airmole",
+    "description": "贝壳百科",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "plugins": [
+      "mermaid-gb3",
+      "back-to-top-button",
+      "chapter-fold",
+      "code",
+      "-lunr",
+      "-search",
+      "search-pro",
+      "github",
+      "splitter",
+      "-sharing",
+      "sharing-plus",
+      "tbfed-pagefooter",
+      "flexible-alerts",
+      "page-toc-button",
+      "pageview-count",
+      "popup",
+      "hide-element",
+      "edit-link",
+      "-highlight",
+      "prism",
+      "theme-comscore"
+    ],
+    "pluginsConfig": {
+      "prism": {
+        "lang": {
+          "shell": "bash"
+        },
+        "css": [
+          "prismjs/themes/prism-tomorrow.css"
+        ]
+      },
+      "github": {
+        "url": "https://github.com/zeromicro/go-zero"
+      },
+      "page-toc-button": {
+        "maxTocDepth": 2,
+        "minTocSize": 2
+      },
+      "tbfed-pagefooter": {
+        "copyright": "Copyright © tjustb-wiki",
+        "modify_label": "最后更新：",
+        "modify_format": "YYYY-MM-DD HH:mm"
+      },
+      "hide-element": {
+        "elements": [
+          ".gitbook-link"
+        ]
+      },
+      "edit-link": {
+        "base": "https://github.com/zeromicro/zero-doc/tree/main/go-zero.dev",
+        "label": "编辑此页"
+      },
+      "sharing": {
+        "douban": true,
+        "facebook": false,
+        "google": false,
+        "hatenaBookmark": false,
+        "instapaper": false,
+        "line": false,
+        "linkedin": false,
+        "messenger": false,
+        "pocket": false,
+        "qq": false,
+        "qzone": true,
+        "stumbleupon": false,
+        "twitter": false,
+        "viber": false,
+        "vk": false,
+        "weibo": true,
+        "whatsapp": false,
+        "all": [
+          "douban",
+          "weibo",
+          "qq",
+          "qzone",
+          "weibo"
+        ]
+      }
+    }
+}
