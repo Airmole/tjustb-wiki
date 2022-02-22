@@ -37,7 +37,7 @@
         ]
       },
       "github": {
-        "url": "https://github.com/zeromicro/go-zero"
+        "url": "https://github.com/airmole/tjustb-wiki"
       },
       "page-toc-button": {
         "maxTocDepth": 2,
@@ -54,7 +54,7 @@
         ]
       },
       "edit-link": {
-        "base": "https://github.com/zeromicro/zero-doc/tree/main/go-zero.dev",
+        "base": "https://github.com/airmole/tjustb-wiki/tree/master",
         "label": "编辑此页"
       },
       "sharing": {
