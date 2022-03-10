@@ -15,4 +15,6 @@
 * [校园卡](card.md)
 * [图书馆](library.md)
 * [学籍学位](academic.md)
+* [贝壳小盒子](shellbox.md)
+* [公众号](officalAccount.md)
 
