@@ -20,7 +20,7 @@
 * [学籍学位](academic.md)
 * [贝壳小盒子](shellbox.md)
 * [公众号](officalAccount.md)
-* 网站汇总(待完成)
+* [网站汇总](websites.md)
 * 电话(待完成)
 * 社团(待完成)
 
